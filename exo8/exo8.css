@@ -1,0 +1,25 @@
+.tout{
+	display: flex;
+	flex-direction: row;
+}
+.deuxDeux{
+	display: flex;
+	flex-direction: column;
+	background-color: red;
+	width: 400px;
+	height: 450px;
+}
+.un{
+	background-color: violet;
+	width: 200px;
+	height: 600px;
+}
+.deuxUn{
+	height: 150px;
+	width: 400px;
+	background-color: darkblue;
+}
+h1{
+	margin-top: 0px;
+	text-align: center;
+}

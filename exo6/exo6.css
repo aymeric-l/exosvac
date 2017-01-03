@@ -1,0 +1,31 @@
+img{
+	height: 300px;
+	width: 300px;
+	position:absolute;
+}
+#un{
+	z-index: 2;
+}
+#un:hover{
+	z-index:5;
+
+}
+
+#deux{
+	z-index: 3;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#deux:hover{
+	z-index:5;
+}
+#trois{
+	z-index: 4;
+	margin-top: 60px;
+	margin-left: 60px;
+	border: 1px solid black;
+}
+#trois:hover{
+	z-index:5;
+}
+

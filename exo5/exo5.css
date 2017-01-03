@@ -1,0 +1,19 @@
+.fakeImage{
+	height: 600px;
+	width: 600px;
+	background-color: red;
+}
+.tuezMoi{
+	display: flex;
+	flex-direction: column;
+}
+.retuezMoi{
+	display: flex;
+	flex-direction: row;
+}
+#un{
+	float: left;
+}
+#deux{
+	float: right;
+}
